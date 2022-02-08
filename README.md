@@ -7,5 +7,5 @@ I am currently working at [Adviad](https://adviad.com).
 ##### Follow me there:
 
 [![GitHub](https://img.shields.io/github/followers/soltancode?style=social)](https://github.com/soltancode)
-[![Twitter](https://img.shields.io/twitter/follow/svfimusic?style=flat&logo=appveyor)](https://twitter.com/svfimusic)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCZ5AyNjgPWQfX_9f8l3asAQ?style=flat&logo=appveyor)](https://www.youtube.com/channel/UCZ5AyNjgPWQfX_9f8l3asAQ)
+[![Twitter](https://img.shields.io/twitter/follow/svfimusic?style=flat)](https://twitter.com/svfimusic)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCZ5AyNjgPWQfX_9f8l3asAQ?style=flat)](https://www.youtube.com/channel/UCZ5AyNjgPWQfX_9f8l3asAQ)
