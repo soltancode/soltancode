@@ -6,6 +6,9 @@ I am currently working at [Adviad](https://adviad.com).
 
 ##### Follow me there:
 
-[![GitHub](https://img.shields.io/github/followers/soltancode?style=social)](https://github.com/soltancode)
-[![Twitter](https://img.shields.io/twitter/follow/soltancode?style=social)](https://twitter.com/soltancode)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCZ5AyNjgPWQfX_9f8l3asAQ?style=social)](https://www.youtube.com/c/Svfimusic)
+
+[![LinkedIn](https://img.shields.io/badge/Linkedin-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/soltancode)
+[![Behance](https://img.shields.io/badge/Behance-ffffff?style=for-the-badge&logo=behance&logoColor=blue)](https://www.behance.net/soltancode)
+[![Instagram](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=purple)](https://instagram.com/soltancode)
+[![Twitter](https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/soltancode)
+[![YouTube](https://img.shields.io/badge/Youtube-ffffff?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/c/Svfimusic)
