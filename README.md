@@ -4,8 +4,6 @@ I am Soltan, Software Engineer with more than 5 years of experience. I stared my
 
 I am currently working at [Adviad](https://adviad.com).
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3FBP4E)
-
 [![GitHub User's stars](https://img.shields.io/github/stars/soltancode?style=social)](https://github.com/soltancode)
 
 ##### Follow me there:
