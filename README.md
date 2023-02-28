@@ -2,8 +2,6 @@
 
 I am Soltan, Software Engineer with more than 5 years of experience. I stared my developer career as a freelance web developer on 2017. I'm working as a Full Stack Developer.
 
-I am currently working at [Adviad](https://adviad.com).
-
 [![GitHub User's stars](https://img.shields.io/github/stars/soltancode?style=social)](https://github.com/soltancode)
 
 ##### Follow me there:
